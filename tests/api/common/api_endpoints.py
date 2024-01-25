@@ -1,0 +1,6 @@
+USERS = '/api/users'
+LOGIN = '/api/login'
+UNKNOWN = '/api/unknown'
+REGISTER = '/api/register'
+DELAY = '/api/users?delay'
+SUPPORT_HEADING = '/#support-heading'
